@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-shadow{
+    text-shadow: 5px 5px 10px blue;
+}
+.fill {
+    fill:red
+}
+.text-shadow-sm {
+    text-shadow: 1px 1px 2px white;
+}
