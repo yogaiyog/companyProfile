@@ -15,7 +15,7 @@ export default function BriefPrograms() {
       {
         title: "Action Fighting",
         desc: "The Action Fighting coaching program is tailored for players of games like Street Fighter, Tekken, Mortal Kombat, and other fighting games.",
-        imgSrc: "/images/action-fighting.jpg" // Replace with your image path
+        imgSrc: "/images/fight.jpg" // Replace with your image path
       },
       {
         title: "Strategy",

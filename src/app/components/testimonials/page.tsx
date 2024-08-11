@@ -9,7 +9,7 @@ export default function Testimonials() {
     {
       nama: "John Doe",
       text: "GameCourse has completely transformed my approach to gaming. The coaches are incredibly knowledgeable and provided personalized feedback that helped me improve my skills significantly.",
-      img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      img: "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       nama: "Jane Smith",
@@ -19,7 +19,7 @@ export default function Testimonials() {
     {
       nama: "Michael Johnson",
       text: "The training I received from GameCourse exceeded my expectations. The coaches are top-notch and really know how to bring out the best in their students.",
-      img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      img: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ];
 
